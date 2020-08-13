@@ -1,4 +1,4 @@
-# Simple diffie helmen chat client
+# Simple Diffie-Hellman chat client
 
 ## Information
 
